@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragment Organizer in Kotlin</string>
+    <string name="fragment_a">This class is Fragment A</string>
+    <string name="fragment_b">Fragment B, A toast will appear on backPress, in this way you can handle the onbackPress in a Fragment</string>
+    <string name="fragment_c">Fragment C</string>
+    <string name="go_to_fragment_a">Go to Fragment B</string>
+    <string name="go_to_fragment_c">Go to Fragment C</string>
+</resources>
